@@ -343,28 +343,26 @@ hr {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Han_Kuo-yu%28cropped%29.jpg/449px-Han_Kuo-yu%28cropped%29.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
-    background: #f2b179; }
+}
   .tile.tile-16 .tile-inner {
     background: url("https://attach.setn.com/newsimages/2017/07/28/988696-XXL.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
-
-    background: #f59563; }
+}
   .tile.tile-32 .tile-inner {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%E8%94%A1%E8%8B%B1%E6%96%87%E5%AE%98%E6%96%B9%E5%85%83%E9%A6%96%E8%82%96%E5%83%8F%E7%85%A7.png/250px-%E8%94%A1%E8%8B%B1%E6%96%87%E5%AE%98%E6%96%B9%E5%85%83%E9%A6%96%E8%82%96%E5%83%8F%E7%85%A7.png");
     background-size: cover;
     color: rgb(0,0,0,0);
-    background: #f67c5f; }
+}
   .tile.tile-64 .tile-inner {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC12%E3%80%8113%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%85%88%E7%94%9F%E5%AE%98%E6%96%B9%E8%82%96%E5%83%8F%E7%85%A7.jpg/250px-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC12%E3%80%8113%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%85%88%E7%94%9F%E5%AE%98%E6%96%B9%E8%82%96%E5%83%8F%E7%85%A7.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
-    background: #f65e3b; }
+}
   .tile.tile-128 .tile-inner {
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Presiden5a_%28cropped%29.jpg/235px-Presiden5a_%28cropped%29.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
-    background: #edcf72;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
