@@ -329,7 +329,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg/220px-%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg")
+    background: ur1l("https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg/220px-%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg")
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg/220px-%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg")
